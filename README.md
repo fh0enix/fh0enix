@@ -12,6 +12,7 @@
 > <img align="center" alt="fh0enix-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 > <img align="center" alt="fh0enix-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 > <img align="center" alt="fh0enix-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+> <img align="center" alt="fh0enix-Graphql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
 > <br><br> Obs: Tdd and Docker - currently studying
 <hr>
 

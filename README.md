@@ -1,16 +1,29 @@
-### Hi there 👋
+# Welcome to my profile | Ruby on Rails Developer :man_technologist:
 
-<!--
-**fh0enix/fh0enix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+#### Technology Stack
+> <img align="center" alt="fh0enix-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+> <img align="center" alt="fh0enix-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+> <img align="center" alt="fh0enix-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+> <img align="center" alt="fh0enix-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+> <img align="center" alt="fh0enix-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+> <img align="center" alt="fh0enix-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+> <img align="center" alt="fh0enix-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+> <img align="center" alt="fh0enix-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+> <img align="center" alt="fh0enix-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+> <br><br> Obs: Tdd and Docker - currently studying
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently Studying :neckbeard::
+
+> I'm currently doing the SOFTSERVE ACADEMY LEARNING SYSTEM at [SOFTSERVE ACADEMY](https://softserve.academy/).
+
+#### My Stats :chart_with_upwards_trend::
+ <div>
+  <a href="https://github.com/fh0enix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fh0enix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh0enix&layout=compact&langs_count=7&theme=dark"/> <br>
+   <img align="center" alt="fh0enix" src="https://raw.githubusercontent.com/fh0enix/fh0enix/883a1036197301671924cf69fb374cb5045affd7/github-contribution-grid-snake.svg">
+</div>
+

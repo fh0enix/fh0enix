@@ -25,5 +25,8 @@
   <a href="https://github.com/fh0enix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fh0enix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh0enix&layout=compact&langs_count=7&theme=dark"/> <br>
-   ![snake animation](https://github.com/fh0enix/fh0enix/blob/output/github-contribution-grid-snake2.svg)
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fh0enix/fh0enix/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fh0enix/fh0enix/output/github-contribution-grid-snake.svg">
+</picture>
 </div>

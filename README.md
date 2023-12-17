@@ -25,5 +25,5 @@
   <a href="https://github.com/fh0enix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fh0enix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh0enix&layout=compact&langs_count=7&theme=dark"/> <br>
-   <img align="center" alt="fh0enix" src="(https://github.com/fh0enix/fh0enix/blob/output/github-contribution-grid-snake2.svg)">
+   ![snake animation](https://github.com/fh0enix/fh0enix/blob/output/github-contribution-grid-snake2.svg)
 </div>

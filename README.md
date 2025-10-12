@@ -1,4 +1,4 @@
-# Welcome to my profile | Ruby on Rails Developer :man_technologist:
+# Welcome to my profile | Ruby & Python Developer :man_technologist:
 
 <hr>
 

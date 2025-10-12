@@ -17,10 +17,6 @@
 > <br><br> Obs: Tdd and Docker - currently studying
 <hr>
 
-#### Currently Studying :neckbeard::
-
-> I'm currently doing the SOFTSERVE ACADEMY LEARNING SYSTEM at [SOFTSERVE ACADEMY](https://softserve.academy/).
-
 #### My Stats :chart_with_upwards_trend::
  <div>
   <a href="https://github.com/fh0enix">

@@ -1,4 +1,5 @@
-# Welcome to my profile | Ruby & Python Developer :man_technologist:
+# Welcome to my profile | Founder of Wield Equilibrium 🟢 
+Product Builder | AI Tools Creator | Startup MVP Specialist | Ruby on Rails Developer | Visual Storytelling :man_technologist:
 
 <hr>
 
